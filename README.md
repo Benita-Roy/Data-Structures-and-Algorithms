@@ -5,5 +5,5 @@ Welcome to my DSA repository! This repo contains my personal solutions to variou
 
 📌 About
 
-This repository serves as a digital notebook of solved Data Structures and Algorithms (DSA) problems primarily from LeetCode. Each solution is written with readability and efficiency in mind, often accompanied by comments explaining the approach.
+This repository serves as a digital notebook of solved Data Structures and Algorithms (DSA) problems primarily from LeetCode. Each solution is written with readability and efficiency in mind, accompanied by comments explaining the approach.
 
