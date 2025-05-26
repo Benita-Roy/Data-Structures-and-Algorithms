@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms
 🧠 DSA – LeetCode Solutions
 
-Welcome to my DSA repository! This repo contains my personal solutions to various LeetCode problems, organized by topic and difficulty. It's a way for me to reinforce concepts, improve my coding skills, and track my progress over time.
+Welcome to my DSA repository! This repo contains my personal solutions to various LeetCode problems. It's a way for me to reinforce concepts, improve my coding skills, and track my progress over time.
 
 📌 About
 
