@@ -1,4 +1,4 @@
-//
+//LEETCODE Question:9 Difficulty:Easy
 /*
 Given an integer x, return true if x is a palindrome, and false otherwise.
 Example 1:
@@ -19,8 +19,9 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.*/
 #include<stdbool.h>
 bool isPalindrome(int x) {
     int length=0;
+    //to prevent overflow store it as long instead of int 
     long y=(long)x;
-    
+    // base cases return true if 0, false if negative
     if(x==0)
     {
         return true;
@@ -29,7 +30,8 @@ bool isPalindrome(int x) {
     {
         return false;
     }
-    
+
+    //reverse the number and then check for equality
     else
     {
         long rev=0;
