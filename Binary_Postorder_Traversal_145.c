@@ -1,5 +1,5 @@
-//LEETCODE Question:144 Difficulty:Easy
-/*Given the root of a binary tree, return the preorder traversal of its nodes' values.*/
+//LEETCODE Question:145 Difficulty:Easy
+/*Given the root of a binary tree, return the postorder traversal of its nodes' values.*/
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
