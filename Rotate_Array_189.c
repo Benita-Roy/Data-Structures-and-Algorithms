@@ -1,4 +1,5 @@
 //LEETCODE Question:189 Difficulty:Medium
+/*Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.*/
 void reverse(int * arr,int x,int y)
 {   
     int start=x;
