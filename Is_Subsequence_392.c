@@ -1,3 +1,4 @@
+//LEETCODE Question:392 Difficulty:Easy
 #include<stdbool.h>
 bool isSubsequence(char* s, char* t) {
     int i=0;
